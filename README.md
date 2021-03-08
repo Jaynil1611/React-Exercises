@@ -3,7 +3,7 @@
 
 1. [Character Count](https://codesandbox.io/s/character-count-63ryd)
 
-1. [Password1.Matcher, Alphanumneric & Show Password](https://codesandbox.io/s/password-matcher-l7p5i)
+1. [Password Matcher, Alphanumneric & Show Password](https://codesandbox.io/s/password-matcher-l7p5i)
 
 1. [Disable Submit](https://codesandbox.io/s/disable-submit-practice-hgh9v)
 
